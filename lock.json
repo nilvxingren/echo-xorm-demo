@@ -1,0 +1,236 @@
+{
+    "memo": "9d3aef314eb6137201986742f14dfd064a251d9c132cc2b6420587eb9797e87f",
+    "projects": [
+        {
+            "name": "github.com/BurntSushi/toml",
+            "branch": "master",
+            "revision": "b26d9c308763d68093482582cea63d69be07a0f0",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/dgrijalva/jwt-go",
+            "branch": "master",
+            "revision": "2268707a8f0843315e2004ee4f1d021dc08baedf",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-sql-driver/mysql",
+            "branch": "master",
+            "revision": "382e13d099fcf5f5994290892ab258fbebbdc5e3",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-xorm/builder",
+            "branch": "master",
+            "revision": "c8871c857d2555fbfbd8524f895be5386d3d8836",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-xorm/core",
+            "version": "v0.5.6",
+            "revision": "5bf745d7d163f4380e6c2bba8c4afa60534dd087",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-xorm/xorm",
+            "version": "v0.6.2",
+            "revision": "3c8314e91603f0bfa6a228c1a0fea8a9e298f6d9",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/labstack/echo",
+            "branch": "master",
+            "revision": "c3069d42c14d073a07fe6458fda46d65579492db",
+            "packages": [
+                ".",
+                "middleware"
+            ]
+        },
+        {
+            "name": "github.com/labstack/gommon",
+            "branch": "master",
+            "revision": "9298d710c664bcd21c454120f63a00fb7d484458",
+            "packages": [
+                "bytes",
+                "color",
+                "log",
+                "random"
+            ]
+        },
+        {
+            "name": "github.com/lib/pq",
+            "branch": "master",
+            "revision": "2704adc878c21e1329f46f6e56a1c387d788ff94",
+            "packages": [
+                ".",
+                "oid"
+            ]
+        },
+        {
+            "name": "github.com/mattn/go-colorable",
+            "branch": "master",
+            "revision": "ded68f7a9561c023e790de24279db7ebf473ea80",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/mattn/go-isatty",
+            "branch": "master",
+            "revision": "fc9e8d8ef48496124e79ae0df75490096eccf6fe",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/mattn/go-sqlite3",
+            "version": "v1.2.0",
+            "revision": "ca5e3819723d8eeaf170ad510e7da1d6d2e94a08",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/onsi/ginkgo",
+            "branch": "master",
+            "revision": "f40a49d81e5c12e90400620b6242fb29a8e7c9d9",
+            "packages": [
+                ".",
+                "config",
+                "internal/codelocation",
+                "internal/containernode",
+                "internal/failer",
+                "internal/leafnodes",
+                "internal/remote",
+                "internal/spec",
+                "internal/spec_iterator",
+                "internal/specrunner",
+                "internal/suite",
+                "internal/testingtproxy",
+                "internal/writer",
+                "reporters",
+                "reporters/stenographer",
+                "reporters/stenographer/support/go-colorable",
+                "reporters/stenographer/support/go-isatty",
+                "types"
+            ]
+        },
+        {
+            "name": "github.com/onsi/gomega",
+            "branch": "master",
+            "revision": "9b8c753e8dfb382618ba8fa19b4197b5dcb0434c",
+            "packages": [
+                ".",
+                "format",
+                "internal/assertion",
+                "internal/asyncassertion",
+                "internal/oraclematcher",
+                "internal/testingtsupport",
+                "matchers",
+                "matchers/support/goraph/bipartitegraph",
+                "matchers/support/goraph/edge",
+                "matchers/support/goraph/node",
+                "matchers/support/goraph/util",
+                "types"
+            ]
+        },
+        {
+            "name": "github.com/valyala/bytebufferpool",
+            "branch": "master",
+            "revision": "e746df99fe4a3986f4d4f79e13c1e0117ce9c2f7",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/valyala/fasttemplate",
+            "branch": "master",
+            "revision": "dcecefd839c4193db0d35b88ec65b4c12d360ab0",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "golang.org/x/crypto",
+            "branch": "master",
+            "revision": "7e9105388ebff089b3f99f0ef676ea55a6da3a7e",
+            "packages": [
+                "acme",
+                "acme/autocert",
+                "bcrypt",
+                "blowfish",
+                "sha3"
+            ]
+        },
+        {
+            "name": "golang.org/x/net",
+            "branch": "master",
+            "revision": "48359f4f600b3a2d5cf657458e3f940021631a56",
+            "packages": [
+                "context",
+                "idna",
+                "publicsuffix"
+            ]
+        },
+        {
+            "name": "golang.org/x/sys",
+            "branch": "master",
+            "revision": "a55a76086885b80f79961eacb876ebd8caf3868d",
+            "packages": [
+                "unix"
+            ]
+        },
+        {
+            "name": "golang.org/x/text",
+            "branch": "master",
+            "revision": "19e51611da83d6be54ddafce4a4af510cb3e9ea4",
+            "packages": [
+                "internal/gen",
+                "internal/triegen",
+                "internal/ucd",
+                "secure/bidirule",
+                "transform",
+                "unicode/bidi",
+                "unicode/cldr",
+                "unicode/norm",
+                "unicode/rangetable"
+            ]
+        },
+        {
+            "name": "gopkg.in/resty.v0",
+            "branch": "master",
+            "revision": "c45c7bcc0000d1a9ac1b119b2e6043c6540eedea",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "gopkg.in/testfixtures.v2",
+            "version": "v2.2.2",
+            "revision": "50c22f0df6c0901e8ba96762b36bea3ef1e9b13b",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "gopkg.in/yaml.v2",
+            "branch": "v2",
+            "revision": "cd8b52f8269e0feb286dfeef29f8fe4d5b397e0b",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
